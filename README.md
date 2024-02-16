@@ -1,6 +1,6 @@
 <div align="center">
 
-# ‣ zkSync CLI 
+# ‣ zkSync CLI  
 
 ![zkSync CLI](./zksync-cli-banner.png)
 
